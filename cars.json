@@ -1,0 +1,32 @@
+{
+  "cars": [
+    {
+      "plate": "FP-958-TC",
+      "brand": "BMW",
+      "model": "M2",
+      "kilometers": "36754",
+      "year": "2018",
+      "tasks" : [
+        {
+          "todo": [ "Révision" ],
+          "in_progress": [ "Disque / Plaquettes de freins" ],
+          "done": [ "4x Pneus" ]
+        }
+      ]
+    },
+    {
+      "plate": "EC-345-EP",
+      "brand": "Audi",
+      "model": "R8 V10 Plus",
+      "kilometers": "64360",
+      "year": "2015",
+      "tasks" : [
+        {
+          "todo": [ "Voyant moteur" ],
+          "in_progress": [ "Pneu + Jante AVG" ],
+          "done": [ "Peinture pare-choc" ]
+        }
+      ]
+    }
+  ]
+}
